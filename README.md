@@ -71,6 +71,8 @@
   <img src="screenshots/tracker.jpg" width="250" alt="Study Tracker" />
   <img src="screenshots/documents.jpg" width="250" alt="Documents" />
   <img src="screenshots/links.jpg" width="250" alt="Links" />
+  <img src="screenshots/attendance.jpg" width="250" alt="Attendance" />
+  <img src="screenshots/settings.jpg" width="250" alt="Settings" />
 </div>
 
 ---
