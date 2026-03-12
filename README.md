@@ -65,16 +65,13 @@
 
 ## 📸 Screenshots
 
-> *Coming soon — screenshots of the app in both light and dark themes!*
 
-<!-- 
-Uncomment and add your screenshots:
 <div align="center">
-  <img src="screenshots/home.png" width="250" alt="Home Screen" />
-  <img src="screenshots/tracker.png" width="250" alt="Study Tracker" />
-  <img src="screenshots/documents.png" width="250" alt="Documents" />
+  <img src="screenshots/home.jpg" width="250" alt="Home Screen" />
+  <img src="screenshots/tracker.jpg" width="250" alt="Study Tracker" />
+  <img src="screenshots/documents.jpg" width="250" alt="Documents" />
+  <img src="screenshots/links.jpg" width="250" alt="Links" />
 </div>
--->
 
 ---
 
